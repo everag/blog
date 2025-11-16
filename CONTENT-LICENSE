@@ -1,0 +1,36 @@
+Content License — All Rights Reserved
+
+Copyright (c) 2025 Ev Agner
+All rights reserved.
+
+This file governs the non-software content in this repository.
+
+1) Scope of “Content”
+“Content” refers to original non-code materials, including but not limited to:
+- Markdown posts and pages under ev.agner.cc/content/ (e.g., ev.agner.cc/content/blog/, ev.agner.cc/content/*.md).
+- Original images, videos, audio, and other media assets created by the copyright holder (commonly under ev.agner.cc/static/, e.g., ev.agner.cc/static/images/).
+- Any other prose, articles, or media files not intended to be used as software.
+
+“Software” (such as configuration, templates, layouts, stylesheets, scripts, build files, and other code) is not governed by this document. Software in this repository is licensed under the terms specified in the LICENSE file at the repository root (MIT License), unless a given file or directory provides its own license. Third-party themes and code are governed by their respective upstream licenses.
+
+2) No license granted
+No license is granted to copy, reproduce, redistribute, publicly display, perform, or create derivative works from the Content, in whole or in part, without prior written permission from the copyright holder.
+
+3) Generated site output
+The generated site output (e.g., docs/ or public/) may include both code and content:
+- The textual and media portions of the generated output remain “All Rights Reserved” as described in this document.
+- Any design, templating, and other software components embedded in the generated output remain licensed under their respective software licenses (e.g., the MIT License referenced in LICENSE, or any third-party theme’s own license).
+
+4) Third-party themes and dependencies
+Any theme or third-party component (e.g., files under ev.agner.cc/themes/) is licensed under its own upstream license. Nothing in this document alters those upstream terms. This document does not grant any rights to reuse Content bundled with or rendered by those third-party components.
+
+5) Statutory exceptions
+Nothing in this document is intended to limit rights that cannot be waived by contract, including applicable statutory exceptions such as fair use or similar doctrines where they exist under relevant law.
+
+6) Requests for permission
+To request permission to reuse the Content, contact the repository’s copyright holder.
+
+Summary
+- Content (posts, pages, original media) — All Rights Reserved (this file).
+- Software (layouts, configuration, scripts, etc.) — see LICENSE (MIT), unless otherwise noted.
+- Third-party themes/code — governed by their own upstream licenses.
