@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Ev&#39;s Personal Blog</title>
+    <link>http://localhost:1313/blog/dev/</link>
+    <description>Recent content in Dev on Ev&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Ev Agner</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who else is afraid of pointers?</title>
+      <link>http://localhost:1313/who-else-is-afraid-of-pointers/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/who-else-is-afraid-of-pointers/</guid>
+      <description>&lt;p&gt;Structure:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;College and Java&lt;/li&gt;&#xA;&lt;li&gt;No low level programming&lt;/li&gt;&#xA;&lt;li&gt;Java vs the world&lt;/li&gt;&#xA;&lt;li&gt;Career&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;li&gt;Golang&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Checklist:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write content&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Revise content&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Adjust date and description&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Adjust tags&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
