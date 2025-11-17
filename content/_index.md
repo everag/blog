@@ -4,24 +4,26 @@ menu = "main"
 weight = 1
 +++
 
-# A match made in heaven
+# Author
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Hi! I'm **Ev Agner (he/they)**, a brazilian Staff Software Engineer and writer based in NYC.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+This is my personal blog and website, where I will primarily share my thoughts on software engineering, but may also occasionally talk about other topics such as gaming, my journey learning japanese and personal thoughts.
 
-[Go to the original bear blog](https://bearblog.dev/).
+All opinions expressed here are my own and, particularly when it comes to technical content and opinions, do not reflect or represent the opinions of any current or previous employers.
 
----
+Check out my recent posts here: [/blog](/blog)
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+# About AI
 
-**Use this theme, and find out!**
+I will never use AI to write content for this blog. All posts come from my own thoughts and experiences, and are motivated by my desire to share ideas, thoughts and knowledge with others.
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+I may, however, use AI to revise content and, especially, fix grammatical errors or general typos. This is particular important to me because, while I do feel pretty comfortable with the english language, it's still not my native language.
 
----
+# License
+This website's license is split between the [MIT License](https://mit-license.org/) for the technical components of the blog, and a restrictive All Rights Reserved license for the content. For more information, check the [Github Repo](https://github.com/everag/blog).
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+# Contact
 
-Each page is ~5kb, and you can **host your blog yourself**.
+* **LinkedIn**: [linkedin.com/in/evertonagner](https://www.linkedin.com/in/evertonagner)
+* **Email**: [ev@agner.cc](mailto:ev@agner.cc)

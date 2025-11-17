@@ -67,3 +67,10 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+# Configure menu items
+[menu]
+    [[menu.main]]
+    name = "RSS"
+    url = "/blog/index.xml"   # blog-only feed; use "/index.xml" for site-wide feed
+    weight = 110              # place after "Blog"
