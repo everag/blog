@@ -26,4 +26,4 @@ This website's license is split between the [MIT License](https://mit-license.or
 # Contact
 
 * **LinkedIn**: [linkedin.com/in/evertonagner](https://www.linkedin.com/in/evertonagner)
-* **Email**: [ev@agner.cc](mailto:ev@agner.cc)
+* **Email**: ev [at] agner [dot] cc
